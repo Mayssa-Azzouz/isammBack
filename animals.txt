@@ -1,1 +1,4 @@
 lion
+chat
+chien
+tigre
